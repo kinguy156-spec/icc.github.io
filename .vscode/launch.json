@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080/web.html",
+            "url": "http://192.168.11.149:3000",
             "webRoot": "${workspaceFolder}/Intensive creation club"
         }
     ]
